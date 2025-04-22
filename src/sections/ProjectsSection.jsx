@@ -16,9 +16,9 @@ const ProjectsSection = () => {
       title: "Portfolio Website",
       description: "MERN stack-based personal portfolio showcasing projects and skills.",
       image: "https://placehold.co/800x600/9370DB/FFFFFF?text=Portfolio+Website",
-      technologies: ["MongoDB", "Express", "React", "Node.js", "Tailwind CSS"],
+      technologies: ["Javascript", "React", "Tailwind CSS"],
       github: "https://github.com/HarshadaSYadav",
-      demo: "https://example.com"
+      demo: "https://harshadayadav13.vercel.app/"
     },
     {
       title: "Student Marks Evaluation System",
